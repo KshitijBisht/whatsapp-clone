@@ -44,3 +44,8 @@ padding: 10px;
     margin-left: 10px;
     outline-width: 0;
 }
+.sidebar__chats{
+    flex: 1;
+    background-color: #f6f6f6;
+    overflow: scroll;
+}
